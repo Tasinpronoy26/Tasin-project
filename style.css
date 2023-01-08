@@ -170,7 +170,7 @@ i{
       rgba(241, 91, 34, 1),
       rgba(255, 255, 255, 0)
     ),
-    url(../images/watch.png);
+    url(images/watch.png);
   background-position: center;
   background-size: cover;
 }
